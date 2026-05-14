@@ -1,3 +1,5 @@
+# mrfiiqane == so dhowow magacaygu waa mohamed mohamud Kani waa assignment 2  ==
+
 # general question
 name = input("what is your name?")
 print("welcome!", name, "let start question.\n")
